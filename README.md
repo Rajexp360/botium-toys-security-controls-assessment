@@ -47,3 +47,13 @@ additional administrative and technical controls are required to strengthen
 the organization's security posture and improve compliance.
 
 
+## Skills Demonstrated
+
+- Security Controls Assessment
+- Risk Assessment
+- Compliance Review
+- Gap Analysis
+- Security Documentation
+- Governance, Risk & Compliance (GRC)
+
+

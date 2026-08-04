@@ -30,3 +30,20 @@ The assessment covers the following areas:
 - Access control mechanisms
 - Regulatory compliance requirements
 - Risk identification and mitigation
+
+## Risk Summary
+
+Overall Risk Score - 8 / 10 (High) 
+Primary Risks - Missing security controls, weak access management, lack of disaster recovery planning 
+Business Impact - Increased risk of data breaches, operational disruption, and regulatory non-compliance 
+
+
+## Key Findings
+
+The assessment identified several critical security gaps, including the absence of least privilege, a disaster recovery plan, an intrusion detection system (IDS), data encryption, and a password management system.
+However, the organization has implemented foundational security measures such as firewall protection, antivirus software, CCTV surveillance, fire detection systems,
+and physical locks. Overall, the findings indicate that while basic security controls are in place,
+additional administrative and technical controls are required to strengthen 
+the organization's security posture and improve compliance.
+
+

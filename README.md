@@ -16,3 +16,17 @@ The project identifies security control gaps, reviews compliance requirements, a
 - Identify security control gaps and compliance deficiencies.
 - Assess alignment with applicable security and compliance requirements.
 - Recommend practical actions to strengthen the organization's security posture.
+
+
+## Project Scope
+
+The assessment covers the following areas:
+
+- Existing administrative security controls
+- Technical security controls
+- Physical security controls
+- Asset management practices
+- Data protection measures
+- Access control mechanisms
+- Regulatory compliance requirements
+- Risk identification and mitigation
